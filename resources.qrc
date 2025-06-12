@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/images">
+        <file>pic/app_icon.ico</file>
+        <file>pic/car.png</file>
+        <file>pic/flag.png</file>
+    </qresource>
+</RCC> 
