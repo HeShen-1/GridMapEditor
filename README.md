@@ -71,8 +71,9 @@ GridMapEditor/
 
 ## 构建项目
 
-1. 进入构建目录：
+1. 构建构建目录：
 ```bash
+mkdir build
 cd build
 ```
 
